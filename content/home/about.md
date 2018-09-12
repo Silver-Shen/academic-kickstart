@@ -26,4 +26,4 @@ interests = ["Machine Learning",  "Causal Inference", "Deep Learning"]
 
 # Biography
 
-To do!
+Zheyan Shen is a Ph.D candidate in Department of Computer Science and Technology, Tsinghua University. He received his B.S. from the Department of Computer Science and Technology, Tsinghua University in 2017.  His research interests include causal inference, stable prediction under selection bias and interpretability of machine learning. 
